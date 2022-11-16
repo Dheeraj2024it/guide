@@ -1,0 +1,53 @@
+.first,
+.second,
+.target-2,
+.target-4,
+.t-1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+
+.second-2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.f1,
+.subject {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.third,
+.eight,
+#ch,
+#code {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+}
+
+.link,
+.tag {
+    text-align: center;
+    font-family: sans-serif;
+    border: 1px solid rgb(171, 196, 252);
+}
+
+.target,
+.taget-1,
+.f3,
+.f4,
+.cen,
+.d-1,
+.final {
+    border: 1px solid indigo;
+    text-align: center;
+    font-family: sans-serif;
+}
